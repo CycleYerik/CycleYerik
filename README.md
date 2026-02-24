@@ -31,16 +31,7 @@
 ### 📊 My GitHub Activity
 
 
-<!-- GitHub 主要语言 -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CycleYerik&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-      <br>
-      <sub><b>Top Languages</b></sub>
-    </td>
-  </tr>
-</table>
+
 
 <!-- GitHub 活动贡献图 -->
 <div align="center">
